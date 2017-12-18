@@ -1,32 +1,35 @@
 
 h1 {
-	color: blue;
+	color: maroon;
 	text-transform: uppercase;
 	margin: 20px;
 	padding: 40px;
-	border-style: dashed;
-	border-color: red;
-	border-width: 5px;
+	
+	
 }
 
 h2 {
-	color: red;
+	color: maroon;
 	text-decoration: underline;
 }
 
 h3 {
-	color: blue;
+	color: maroon;
+	text-decoration: underline;
 }
 
 h4 {
 	color: maroon;
+	text-decoration: underline;
 }
 
 body {
 	font-family: sans-serif;
+	background-color: aqua;
+
 }
 
 p {
-    color: #0000FF;
+    color: white;
     font-size: 12px;
 }
